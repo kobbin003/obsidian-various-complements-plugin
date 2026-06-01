@@ -4,7 +4,8 @@
 [![Tests](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/workflows/Tests/badge.svg)](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/actions)
 ![downloads](https://img.shields.io/github/downloads/tadashi-aikawa/obsidian-various-complements-plugin/total)
 
-This plugin for [Obsidian] enables you complete words like the auto-completion of IDE.
+The **Various Complements** plugin for [Obsidian] enables you complete words like the auto-completion of IDE.
+> Community Plugins → Search for: `Various Complements`
 
 ![](https://tadashi-aikawa.github.io/docs-obsidian-various-complements-plugin/resources/various-complements.gif)
 
@@ -74,4 +75,3 @@ pnpm verify
 Run [Release Action](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/actions/workflows/release.yaml).
 
 [Obsidian]: https://obsidian.md/
-
